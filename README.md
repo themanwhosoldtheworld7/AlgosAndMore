@@ -1,2 +1,2 @@
-# HackerRank
-Submissions to Challenges put up on HackerRank
+# CODE FOR FUN
+Ptactise code snippets for me to sty sharp
